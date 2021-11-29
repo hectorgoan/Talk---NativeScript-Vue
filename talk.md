@@ -228,6 +228,8 @@ A Desarrollar!!
 -   Tecnología interesante para proyectos / empresas con presupuesto ajustado, que quieren tocar todos los públicos
 -   Documentación de los [componentes](https://nativescript-vue.org/en/docs)
 
+-   Proceso de preparación del entorno muy tedioso, y parece frágil (cómo si por alguna actualización fuera a romperse)
+
 ---
 
 <!-- _class: lead -->
