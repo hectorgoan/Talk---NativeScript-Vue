@@ -226,7 +226,7 @@ A Desarrollar!!
 -   Bastante comunidad
 -   Documentación de calidad
 -   Tecnología interesante para proyectos / empresas con presupuesto ajustado, que quieren tocar todos los públicos
--   Documentación de los [componentes](https://nativescript-vue.org/en/docs)
+-   Documentación de los [componentes](https://nativescript-vue.org/en/docs/introduction/)
 
 -   Proceso de preparación del entorno muy tedioso, y parece frágil (cómo si por alguna actualización fuera a romperse)
 
